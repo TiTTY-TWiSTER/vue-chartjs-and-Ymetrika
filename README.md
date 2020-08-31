@@ -1,4 +1,4 @@
-![example on site](figures/example_prod.png)
+![example on site](assets/example_prod.png)
 # chartjs_and_api_Ymetrica
 
 ## Build Setup
